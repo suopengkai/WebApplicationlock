@@ -28,6 +28,9 @@ namespace WebApplication1
 			}
 		}
 
+		/// <summary>
+		/// object¿‡
+		/// </summary>
 		public class StateObject
 		{
 			private int _state = 5;
